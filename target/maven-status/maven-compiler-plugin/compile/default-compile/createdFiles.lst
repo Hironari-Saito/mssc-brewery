@@ -1,1 +1,7 @@
 guru/springframework/msscbrewery/MsscBreweryApplication.class
+guru/springframework/msscbrewery/web/services/v2/BeerServiceV2.class
+guru/springframework/msscbrewery/web/services/v2/BeerServiceV2Impl.class
+guru/springframework/msscbrewery/web/model/v2/BeerStyleEnum.class
+guru/springframework/msscbrewery/web/controller/v2/BeerControllerV2.class
+guru/springframework/msscbrewery/web/model/v2/BeerDtoV2$BeerDtoV2Builder.class
+guru/springframework/msscbrewery/web/model/v2/BeerDtoV2.class
