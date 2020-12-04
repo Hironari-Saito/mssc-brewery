@@ -10,7 +10,7 @@ import javax.validation.constraints.Null;
 import javax.validation.constraints.Positive;
 import java.util.UUID;
 
-@Deprecated
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
